@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024.<br>🧑‍💻 Currently working on: laragansasalvaje.com, website for a friend of mine and her art.<br>🎲 Fun fact: When I’m not coding, you’ll find me playing music, reading or taking amazing photos.</p>
+<p align="left">✨ Creating bugs since 2024.<br>🧑‍💻 Currently working on: push_swap; A C program to order a stack using 3 different algorithms.<br>🎲 Fun fact: When I’m not coding, you’ll find me playing music, reading or taking amazing photos.</p>
 
 ###
 
@@ -30,6 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" alt="bash" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
