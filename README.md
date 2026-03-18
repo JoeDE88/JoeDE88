@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">I'm a Full Stack Developer with experience in JavaScript, React, Python, Django and SQL.</h4>
+<h4 align="left">I'm a Full Stack Developer with experience in C language, Python, Django, FastAPI, JavaScript, React, and SQL.</h4>
 
 ###
 
