@@ -16,7 +16,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024.<br>🧑‍💻 Currently working on: push_swap; A C program to sort data using 3 different algorithms.<br>🎲 Fun fact: When I’m not coding, you’ll find me playing music, reading or taking amazing photos.</p>
+<p align="left">✨ Creating bugs since 2024.<br>🧑‍💻
+  Currently working on: Common Core in 42 Madrid Fundación Telefónica.<br>
+  🎲 Fun fact: When I’m not coding, you’ll find me playing music, reading or taking amazing photos.
+</p>
 
 ###
 
